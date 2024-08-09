@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     "home",
     "esporte",
     "educacao",
+    "animais",
+    "saude",
 ]
 
 MIDDLEWARE = [
